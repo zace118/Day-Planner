@@ -1,0 +1,15 @@
+-Take value from text box in a div and save it to local storage using an on click feature
+    -Grab value from text box
+
+        let userInput = $('#input').val();
+
+    -Save it to local storage using .on('click)
+
+        $("#Save").click(function(){
+            localStorage.setItem('userInputKey', 'userInput')
+        });
+
+
+
+
+-Using this reference (https://stackoverflow.com/questions/36197031/how-to-use-moment-js-to-check-whether-the-current-time-is-between-2-times), make the current hour display in light blue, the past hours display in red, the future hours display in green
