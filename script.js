@@ -1,7 +1,5 @@
-let userInput = $('#input').val();
-
-
-$("#Save").click(function(){
-    localStorage.setItem('userInputKey', userInput.val());
+$("#Save").on('click', function(){
+    let userInput = $('#inputInfo').val();
+    localStorage.setItem('9AM', userInput);
+    console.log(localStorage);
 });
-
