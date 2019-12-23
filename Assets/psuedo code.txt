@@ -13,3 +13,19 @@
 
 
 -Using this reference (https://stackoverflow.com/questions/36197031/how-to-use-moment-js-to-check-whether-the-current-time-is-between-2-times), make the current hour display in light blue, the past hours display in red, the future hours display in green
+
+    This is the variable set to the current time
+        -let m =moment().format('MMMM Do YYYY, h:mm A'); 
+
+
+
+    -if (
+        time.isBefore
+    ){
+        
+    }
+    -if (
+        time.isBetween(moment('09:00:00', timeFormat), moment('09:59:59', timeFormat)) ||
+        time.isSame(moment('09:00:00', timeFormat)) ||
+        time.isSame(moment('09:59:59', timeFormat))
+    )
