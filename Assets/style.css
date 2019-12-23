@@ -1,14 +1,23 @@
+header {
+    color: white;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/000/117/780/small/vector-abstract-outline-pattern.jpg);
+}
+
+body {
+    background-image: url(https://image.freepik.com/free-vector/abstract-geometric-pattern-background_1319-242.jpg);
+}
 .mainTitle {
     font-size: 60px;
 }
 #hrBreak {
     border: 3px solid black;
 }
-#time {
+.time {
     border-style: solid;
     border-width: 1px;
     border-color: black;
     text-align: center;
+    background-color: white;
 }
 #input {
     border-style: solid;
@@ -16,6 +25,7 @@
     border-color: black;
 }
 .save {
+    background-color: white;
     border-style: solid;
     border-width: 1px;
     border-color: black;
