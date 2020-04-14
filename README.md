@@ -12,7 +12,7 @@ A simple web app developed to help manage time within your work day. Click on a 
 
 ## Authors
 
-* **Zac Eskridge** - *Backend Developer* - [zace118](https://github.com/zace118)
+* **Zac Eskridge** - *Initial Work* - [zace118](https://github.com/zace118)
 
 
 See also the list of [contributors](https://github.com/zace118/Chambers-Chariots-Character-Generator/contributors) who participated in this project.
