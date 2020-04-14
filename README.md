@@ -1,6 +1,6 @@
 # [Day Planner](https://zace118.github.io/Day-Planner/)
 
-A simple web app developed to help manage time within your work day. Click on a box to add your notes and appoinments for that hour.
+A simple web app developed to help manage time within your work day. Click on a box to add your notes and appoinments for that hour. This was built after our first project where we started introducing Node followed by Express. We implemented some simple HTML Routes for this project which was one of the newer struggles I encountered with this app.
 
 ![DayPlanner](/Assets/Images/DayPlanner.png)
 
@@ -9,8 +9,6 @@ A simple web app developed to help manage time within your work day. Click on a 
 * [jQuery](https://api.jquery.com/) 
 * [Node.js](https://nodejs.org/en/docs/guides/getting-started-guide/)
 * [Express.js](https://expressjs.com/)
-* [MySQL](https://dev.mysql.com/doc/workbench/en/)
-* [Sequelize](https://sequelize.org/v5/)
 
 ## Authors
 
