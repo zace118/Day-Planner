@@ -3,3 +3,24 @@
 A simple web app developed to help manage time within your work day. Click on a box to add your notes and appoinments for that hour.
 
 ![DayPlanner](/Assets/Images/DayPlanner.png)
+
+## Built With
+
+* [jQuery](https://api.jquery.com/) 
+* [Node.js](https://nodejs.org/en/docs/guides/getting-started-guide/)
+* [Express.js](https://expressjs.com/)
+* [MySQL](https://dev.mysql.com/doc/workbench/en/)
+* [Sequelize](https://sequelize.org/v5/)
+
+## Authors
+
+* **Zac Eskridge** - *Backend Developer* - [zace118](https://github.com/zace118)
+
+
+See also the list of [contributors](https://github.com/zace118/Chambers-Chariots-Character-Generator/contributors) who participated in this project.
+
+
+## Acknowledgments
+
+* High fives to my T.A.'s, [Mike Mayo](https://github.com/Magic-Mayo), [Andrew Mendez](https://github.com/MendezAndrewM), and David Barrios
+* Big shout out to my instructor, [JJ Brenner](https://github.com/breadstickguy) for giving me this challenge and pushing me to finsih it! Thanks JJ!
